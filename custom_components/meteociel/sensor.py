@@ -19,7 +19,7 @@ from homeassistant.util import Throttle
 import datetime
 import logging
 
-REQUIREMENTS = ['beautifulsoup4==4.7.1']
+REQUIREMENTS = ['beautifulsoup4==4.8.2', 'lxml==4.5.0']
 
 DEFAULT_CITY_CODE = 7235
 SCAN_INTERVAL = datetime.timedelta(minutes=10)

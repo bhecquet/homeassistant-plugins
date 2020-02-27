@@ -30,7 +30,7 @@ class WeatherData(object):
         
         data = requests.get(url).text
         
-        doc = BeautifulSoup(data, features="html.parser")
+        doc = BeautifulSoup(data, features="lxml")
         for table in doc.find_all('table', attrs={'bgcolor': '#FFFF99'}):
             return table
   
