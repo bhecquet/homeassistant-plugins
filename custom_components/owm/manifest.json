@@ -1,0 +1,8 @@
+{
+  "domain": "owm",
+  "name": "Openweathermap_cache",
+  "documentation": "https://github.com/bhecquet/homeassistant-plugins/tree/master/custom_components/owm",
+  "requirements": ["pyowm==2.10.0"],
+  "dependencies": [],
+  "codeowners": []
+}

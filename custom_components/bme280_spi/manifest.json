@@ -1,0 +1,8 @@
+{
+  "domain": "bme280_spi",
+  "name": "BME 280 SPI",
+  "documentation": "https://github.com/bhecquet/homeassistant-plugins/tree/master/custom_components/bme280_spi",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["adafruit-circuitpython-bme280==2.3.0"]
+}

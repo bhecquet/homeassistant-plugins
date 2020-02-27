@@ -1,0 +1,8 @@
+{
+  "domain": "meteociel",
+  "name": "Meteociel",
+  "documentation": "https://github.com/bhecquet/homeassistant-plugins/tree/master/custom_components/meteociel",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ["beautifulsoup4==4.8.2", "lxml==4.5.0"]
+}
