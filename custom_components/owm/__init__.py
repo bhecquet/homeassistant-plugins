@@ -1,0 +1,1 @@
+"""OpenWeatherMap component with cache"""
